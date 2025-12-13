@@ -27,8 +27,11 @@ export function Header() {
             <a href="#how-it-works" className="text-muted-foreground hover:text-foreground transition-colors font-semibold">
               Cách hoạt động
             </a>
-            <a href="#faq" className="text-muted-foreground hover:text-foreground transition-colors font-semibold">
-              FAQ
+            <a href="https://www.figma.com/design/X0joWBrxTvMPaxbZKB1qbk/BiteTogether?node-id=0-1&t=HkZCso6drJSvk01b-1" className="text-muted-foreground hover:text-foreground transition-colors font-semibold">
+              Figma
+            </a>
+            <a href="https://www.behance.net/gallery/239528175/BiteTogether-Showcase" className="text-muted-foreground hover:text-foreground transition-colors font-semibold">
+              Behance
             </a>
             {/* <a href="#testimonials" className="text-muted-foreground hover:text-foreground transition-colors">
               Đánh giá
